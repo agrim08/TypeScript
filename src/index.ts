@@ -4,8 +4,6 @@ if (a < 18) {
   a += 1;
 }
 
-// console.log(a);
-
 //* data types:
 let sales = 123_456_789;
 let course = "TypeScript";
